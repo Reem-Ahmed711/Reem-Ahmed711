@@ -1,399 +1,742 @@
 <div align="center">
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░  HERO BANNER  ░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- CAPSULE RENDER HERO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Reem%20Ahmed&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20AI%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001e,30:7303c0,60:ec38bc,100:fdeff9&height=220&section=header&text=Reem%20Ahmed&fontSize=64&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI%20Practitioner&descSize=16&descAlignY=60&descColor=e2b4ff" width="100%"/>
-
-<!-- TYPING ANIMATION -->
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&width=620&height=45&lines=Building+real+products+%E2%80%94+not+just+tutorials.;Cairo+University+%C2%B7+Computer+Science+%C2%B7+Class+of+%272027;Full-Stack+%E2%80%A2+AI+%E2%80%A2+Design-aware+Engineering;Be+Ready+Presidential+Youth+%E2%80%94+National+Selectee+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG"/>
-</a>
+<!-- TYPING BANNER -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&random=false&width=700&height=50&lines=Building+production-grade+software+since+day+one;Full-Stack+%7C+AI+%7C+Systems+%7C+Security;Cairo+University+CS+%E2%80%94+Class+of+2027;National+Presidential+Initiative+Selectee;Turning+ideas+into+deployed+products" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Reem%20Ahmed-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reem-ahmed711)
-[![Gmail](https://img.shields.io/badge/Gmail-reemahmed711-c026d3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reemahmed711@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Projects-ec4899?style=for-the-badge&logo=googlechrome&logoColor=white)](https://reem-ahmed711.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-Reem--Ahmed711-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reem-Ahmed711)
-
-<br/>
-
-<!-- QUICK HIGHLIGHTS -->
-![Cairo University](https://img.shields.io/badge/Cairo%20University-CS%20%7C%202027-7c3aed?style=flat-square&logo=academia&logoColor=white)
-![Open to Internships](https://img.shields.io/badge/Status-Open%20to%20Internships-22c55e?style=flat-square&logo=checkmarx&logoColor=white)
-![Be Ready](https://img.shields.io/badge/Be%20Ready-Presidential%20Youth%20Initiative-ec4899?style=flat-square&logo=egyptair&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=Reem-Ahmed711&color=7c3aed&style=flat-square&label=Profile+Views)
+<!-- VISITOR COUNTER + FOLLOWERS -->
+<img src="https://komarev.com/ghpvc/?username=ReemAhmed&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="visitors"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/ReemAhmed?style=for-the-badge&color=a855f7&labelColor=1e1b4b&label=FOLLOWERS" alt="followers"/>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_INTERNSHIPS-22c55e?style=for-the-badge&labelColor=14532d" alt="status"/>
 
 </div>
 
-<br/>
+---
 
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--                       ABOUT ME                             -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
+<!-- PERSONAL BRAND STATEMENT -->
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:03001e,100:7303c0&height=2&section=header" width="100%"/>
+### ⚡ `> whoami`
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   I don't just write code — I architect solutions.               ║
+║                                                                  ║
+║   CS student at Cairo University building full-stack systems,    ║
+║   exploring the edges of AI, and engineering experiences         ║
+║   that feel inevitable once they exist.                          ║
+║                                                                  ║
+║   National selectee. IBM & Google certified. Shipped products.   ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<!-- ABOUT ME -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/source.gif" width="30"> About Me
 
 <table>
 <tr>
-<td valign="top" width="60%">
-
-## `$ whoami`
-
-CS student at **Cairo University** building production-grade software — not just coursework demos. I architect stateful frontends, design role-based systems, and write game physics engines. My graphic design background means I ship interfaces that look as precise as the code underneath them.
-
-In 2024, I was **nationally selected** for Egypt's *Be Ready* Presidential Youth Initiative — a competitive program for high-potential youth in digital skills and AI. I hold certifications from IBM, ALX, and Google.
+<td width="55%">
 
 ```yaml
-focus:      [ Full-Stack Dev, Applied AI, System Design ]
-building:   [ TechX Egypt, Student Jobs Portal         ]
-learning:   [ React, Python ML, REST API Design        ]
-available:  [ Internships · Freelance · Open Source    ]
-location:   Maadi, Cairo, Egypt 🇪🇬
+Name        : Reem Ahmed
+Location    : Cairo, Egypt 🇪🇬
+University  : Cairo University
+Major       : Computer Science
+Graduation  : 2027
+Status      : Actively building & shipping
+
+Domains:
+  - Full-Stack Development
+  - Software Engineering
+  - Applied AI / ML
+  - System Design
+  - Ethical Hacking & Cybersecurity
+  - UI/UX-Aware Engineering
+  - Problem Solving & Algorithms
+
+Currently:
+  - Building REST APIs with Node/Express
+  - Deep-diving React ecosystem
+  - Studying System Design patterns
+  - Grinding DSA for technical interviews
+  - Exploring ML with Python (sklearn, pandas)
 ```
 
 </td>
-<td valign="top" width="40%" align="center">
+<td width="45%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" alt="developer at work"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+
+<br/><br/>
+
+[![Cairo University](https://img.shields.io/badge/Cairo_University-CS_2027-7c3aed?style=flat-square&logo=graduation-cap&logoColor=white)](https://cu.edu.eg/)
+&nbsp;
+[![Location](https://img.shields.io/badge/Cairo-Egypt-a855f7?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Cairo,Egypt)
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7303c0,100:ec38bc&height=2" width="100%"/>
+---
+
+<!-- CAREER JOURNEY TIMELINE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
+## 🗺️ Career Journey
+
+<div align="center">
+
+```
+2021 ─────────────────────────────────────────────────────────── Present
+
+ [2021]              [2022]              [2023]              [2024-25]
+   │                   │                   │                     │
+   ▼                   ▼                   ▼                     ▼
+┌─────────┐      ┌──────────┐      ┌───────────┐         ┌───────────┐
+│  First  │      │  Java    │      │ Full-Stack │         │ National  │
+│  Line   │ ───▶ │  Dev     │ ───▶ │ Projects  │ ──────▶ │ Selectee  │
+│  of     │      │ Training │      │ Shipped   │         │ + IBM/    │
+│  Code   │      │ ALX AI   │      │ E-Commerce│         │ Google    │
+└─────────┘      └──────────┘      └───────────┘         └───────────┘
+    │                   │                   │                     │
+  Curiosity        Foundations       Production             Recognition
+```
+
+</div>
+
+---
+
+<!-- FEATURED PROJECTS -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=500&color=A855F7&center=true&vCenter=true&width=500&height=30&lines=Real+products.+Real+architecture.+Real+impact." alt="projects tagline"/>
+</div>
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--                    FEATURED PROJECTS                       -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
-
-## ◈ Featured Projects
-
-> *These are engineered products — not tutorial clones.*
-
+<!-- PROJECT 1 -->
+<details open>
+<summary><b>🛒 TechX Egypt — Full-Stack E-Commerce Platform</b></summary>
 <br/>
-
-<!--- ── PROJECT 1 ─────────────────────────────────────────────── -->
 
 <table>
 <tr>
-<td width="100%">
+<td width="65%">
 
-### `01` &nbsp; TechX Egypt &nbsp; — &nbsp; Full-Stack E-Commerce Platform
+**Overview**
+> A production-grade e-commerce platform serving the Egyptian tech market. End-to-end retail experience with real-time inventory, user auth, and payment flow architecture.
 
-[![Live Demo](https://img.shields.io/badge/↗%20Live%20Demo-TechX%20Egypt-7c3aed?style=for-the-badge&logoColor=white)](https://Reem-Ahmed711.github.io/TechX-Egypt/)
-[![Repository](https://img.shields.io/badge/⌥%20Repository-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reem-Ahmed711/TechX-Egypt)
+**Architecture Highlights**
+- 🧩 Microservice-ready REST API design
+- 🔐 JWT authentication & role-based access control
+- 📦 Product catalog with search, filter, category hierarchy
+- 🛒 Shopping cart with session persistence
+- 📊 Admin analytics dashboard
 
-**Stack:** `HTML5` `CSS3` `JavaScript ES6+` `LocalStorage API`
+**Stack**
 
-A complete multi-role e-commerce system engineered without a backend framework. Rather than reaching for Firebase or a Node server, I built a client-side data layer using LocalStorage as a structured persistence store — designing a custom data schema for products, cart state, and user sessions that survives page reloads and browser restarts.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Engineering highlights:**
-- Admin dashboard with full **CRUD** — products can be created, updated, and deleted without page refresh, using DOM diffing instead of full re-renders
-- **Dual authentication flow** — separate registration and login with session tokens stored and validated client-side
-- Shopping cart with **quantity controls, subtotal calculation, and live inventory tracking** across sessions
-- Product catalog with **multi-axis filtering** (category + price range) implemented as composable filter functions
+**Metrics**
 
-> *Demonstrates: SPA architecture, state management without frameworks, client-side auth patterns, responsive layout engineering*
+| Feature | Status |
+|---------|--------|
+| User Auth System | ✅ Complete |
+| Product Catalog | ✅ Complete |
+| Cart & Checkout | ✅ Complete |
+| Admin Dashboard | ✅ Complete |
+| Payment Gateway | 🔄 In Progress |
+
+</td>
+<td width="35%" align="center">
+
+```
+┌─────────────────────┐
+│   TechX Egypt       │
+│   ─────────────     │
+│   🛍️ E-Commerce     │
+│                     │
+│   [HOMEPAGE]        │
+│   ┌───────────────┐ │
+│   │  Hero Banner  │ │
+│   │  Product Grid │ │
+│   │  Cart Panel   │ │
+│   └───────────────┘ │
+│                     │
+│   Full-Stack SaaS   │
+└─────────────────────┘
+```
+
+![E-Commerce](https://img.shields.io/badge/Type-E_Commerce-7c3aed?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Shipped-22c55e?style=for-the-badge)
 
 </td>
 </tr>
 </table>
-
-<br/>
-
-<!--- ── PROJECT 2 ─────────────────────────────────────────────── -->
-
-<table>
-<tr>
-<td width="100%">
-
-### `02` &nbsp; AutoHub Egypt &nbsp; — &nbsp; Premium Car Marketplace
-
-[![Live Demo](https://img.shields.io/badge/↗%20Live%20Demo-AutoHub%20Egypt-c026d3?style=for-the-badge&logoColor=white)](https://Reem-Ahmed711.github.io/AutoHub-Egypt/)
-[![Repository](https://img.shields.io/badge/⌥%20Repository-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reem-Ahmed711/AutoHub-Egypt)
-
-**Stack:** `HTML5` `CSS3` `JavaScript` `Font Awesome`
-
-A high-fidelity vehicle marketplace solving a real UX problem: most Egyptian car listing sites require registration before a buyer can contact a seller. AutoHub removes that friction entirely — a buyer filters, views specs, and calls or messages the seller in three interactions.
-
-**Engineering highlights:**
-- **Five-dimensional search** — simultaneous filtering by brand, price band, year range, fuel type, and governorate, implemented as a reactive filter pipeline with zero page loads
-- **Persistent favorites system** — wishlist state survives sessions via LocalStorage; items can be toggled across visits
-- **Modal gallery** — full-resolution image carousel with detailed spec sheet, opening inline without routing
-- **Zero-click contact** — `tel:` and `wa.me` deep links allow immediate WhatsApp or phone contact from the listing card
-
-> *Demonstrates: complex filter logic, UX-first architecture, conversion-optimized interaction patterns*
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!--- ── PROJECT 3 ─────────────────────────────────────────────── -->
-
-<table>
-<tr>
-<td width="100%">
-
-### `03` &nbsp; Student Jobs Portal &nbsp; — &nbsp; Role-Based Job Platform
-
-[![Repository](https://img.shields.io/badge/⌥%20Repository-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reem-Ahmed711/student-jobs-portal)
-
-**Stack:** `JavaScript` `HTML5` `CSS3`
-
-A three-role platform addressing a genuine gap: Cairo University students had no dedicated part-time job board. The system separates concerns between three authenticated user types — each seeing a completely different interface with different permissions.
-
-**Engineering highlights:**
-- **Role-based access control** — students, employers, and admins each authenticate into isolated views; routing logic prevents cross-role access
-- **Job lifecycle management** — postings move through created → open → applied → reviewed states, with each transition surfaced differently to each role
-- **Application tracking** — students see status per application; employers see applicant lists per posting; admin can moderate all content
-
-> *Demonstrates: RBAC patterns, multi-view SPA design, real-world domain modeling*
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!--- ── PROJECT 4 ─────────────────────────────────────────────── -->
-
-<table>
-<tr>
-<td width="100%">
-
-### `04` &nbsp; CS304 Air Hockey &nbsp; — &nbsp; Physics-Based 2D Game
-
-[![Repository](https://img.shields.io/badge/⌥%20Repository-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reem-Ahmed711/CS304-AirHockey)
-
-**Stack:** `Java` `Swing` `AWT`
-
-A real-time 2D physics game built entirely in Java — a project that required thinking in game loops, collision geometry, and AI decision trees rather than DOM events. The opponent AI observes puck velocity vectors and predicts interception points rather than just tracking position.
-
-**Engineering highlights:**
-- **Velocity-based collision system** — puck angle and speed mutate on impact with walls, paddles, and boundaries using vector reflection
-- **Predictive AI opponent** — the computer paddle calculates projected puck trajectory and moves to interception, not just toward the puck's current position
-- **Game state machine** — transitions between `IDLE → PLAYING → SCORED → RESET → GAME_OVER`, preventing event handling bugs mid-transition
-- **60fps game loop** — `Timer`-driven rendering with delta-based physics to keep movement frame-rate independent
-
-> *Demonstrates: OOP architecture, real-time systems, physics simulation, AI logic, event-driven design*
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><strong>&nbsp;⊕ &nbsp;DriveZone — Car Marketplace (view)</strong></summary>
-<br/>
-
-[![Live Demo](https://img.shields.io/badge/↗%20Live%20Demo-DriveZone-7c3aed?style=flat-square&logoColor=white)](https://Reem-Ahmed711.github.io/DriveZone-Car-Marketplace/)
-[![Repository](https://img.shields.io/badge/⌥%20Repository-GitHub-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/Reem-Ahmed711/DriveZone-Car-Marketplace)
-
-`HTML5` `CSS3` `JavaScript`
-
-Responsive vehicle marketplace with category filtering, price sort, modal vehicle detail views, and client-side validated contact form. Companion project to AutoHub, with a focus on simpler UX and broader device compatibility.
-
 </details>
 
+---
+
+<!-- PROJECT 2 -->
+<details open>
+<summary><b>🚗 AutoHub Egypt — Premium Car Marketplace</b></summary>
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7303c0,100:ec38bc&height=2" width="100%"/>
+<table>
+<tr>
+<td width="65%">
 
+**Overview**
+> A premium car marketplace for the Egyptian automotive market. Advanced filtering, dealership profiles, listing management, and inquiry system.
+
+**Architecture Highlights**
+- 🔍 Advanced search with multi-parameter filtering
+- 🏢 Multi-role system: buyers, sellers, dealerships
+- 📸 Media upload & gallery management
+- 📩 Lead management & inquiry routing
+- 📍 Location-based listing discovery
+
+**Stack**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+<td width="35%" align="center">
+
+```
+┌─────────────────────┐
+│   AutoHub Egypt     │
+│   ─────────────     │
+│   🚗 Car Market     │
+│                     │
+│   [LISTING VIEW]    │
+│   ┌───────────────┐ │
+│   │  Car Gallery  │ │
+│   │  Price / Spec │ │
+│   │  Contact Form │ │
+│   └───────────────┘ │
+│                     │
+│   Marketplace SaaS  │
+└─────────────────────┘
+```
+
+![Marketplace](https://img.shields.io/badge/Type-Marketplace-a855f7?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Shipped-22c55e?style=for-the-badge)
+
+</td>
+</tr>
+</table>
+</details>
+
+---
+
+<!-- PROJECT 3 -->
+<details open>
+<summary><b>💼 Student Jobs Portal — Role-Based Employment Platform</b></summary>
 <br/>
 
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--                      TECH STACK                            -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
+<table>
+<tr>
+<td width="65%">
 
-## ◈ Tech Stack
+**Overview**
+> A purpose-built job portal connecting Cairo University students with employers. Engineered with fine-grained role separation: students, companies, and admins each have tailored interfaces and permission scopes.
+
+**Architecture Highlights**
+- 🎭 3-tier RBAC: student / employer / admin
+- 📝 Application tracking with status pipeline
+- 🏷️ Smart job tagging & matching logic
+- 📊 Admin moderation & analytics panel
+- 📧 Notification system for application updates
+
+**Stack**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+<td width="35%" align="center">
+
+```
+┌─────────────────────┐
+│  Student Jobs       │
+│  ─────────────      │
+│  💼 Job Portal      │
+│                     │
+│  Roles:             │
+│  ┌───────────────┐  │
+│  │ 👩‍🎓 Student    │  │
+│  │ 🏢 Employer   │  │
+│  │ 🔐 Admin      │  │
+│  └───────────────┘  │
+│                     │
+│  Platform Product   │
+└─────────────────────┘
+```
+
+![Platform](https://img.shields.io/badge/Type-Platform-ec4899?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Shipped-22c55e?style=for-the-badge)
+
+</td>
+</tr>
+</table>
+</details>
+
+---
+
+<!-- PROJECT 4 -->
+<details>
+<summary><b>🏒 CS304 Air Hockey — Physics-Based Java Game</b></summary>
+<br/>
+
+<table>
+<tr>
+<td width="65%">
+
+**Overview**
+> A fully physics-simulated Air Hockey game built in Java as part of CS304. Features real-time collision detection, velocity vectors, and smooth rendering — from first principles.
+
+**Engineering Highlights**
+- ⚡ Real-time physics engine (collision, bounce, friction)
+- 🎮 Two-player local multiplayer
+- 📐 Vector math for puck deflection angles
+- 🖼️ Custom Java 2D graphics rendering
+- 🔁 Game loop with delta-time control
+
+**Stack**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Java2D](https://img.shields.io/badge/Java_2D-007396?style=flat-square&logo=java&logoColor=white)
+
+</td>
+<td width="35%" align="center">
+
+```
+┌─────────────────────┐
+│  CS304 Air Hockey   │
+│  ─────────────────  │
+│   🏒 Physics Game   │
+│                     │
+│  ┌───────────────┐  │
+│  │  [P1]  ⚪     │  │
+│  │     ——→       │  │
+│  │        ⚪ [P2]│  │
+│  └───────────────┘  │
+│  Collision Engine   │
+└─────────────────────┘
+```
+
+![Game](https://img.shields.io/badge/Type-Game_Engine-f59e0b?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Complete-22c55e?style=for-the-badge)
+
+</td>
+</tr>
+</table>
+</details>
+
+---
+
+<!-- PROJECT 5 -->
+<details>
+<summary><b>🚘 DriveZone — Car Marketplace Platform</b></summary>
+<br/>
+
+<table>
+<tr>
+<td width="65%">
+
+**Overview**
+> A clean, fast car buying and selling platform. Optimized for user experience with intuitive listing flows, comparison tools, and dealer verification.
+
+**Architecture Highlights**
+- 🔎 Smart search & comparison engine
+- ✅ Dealer verification & trust badges
+- 📱 Mobile-first responsive layout
+- 📋 Structured listing forms with validation
+
+**Stack**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+<td width="35%" align="center">
+
+```
+┌─────────────────────┐
+│   DriveZone         │
+│   ─────────────     │
+│   🚘 Car Market     │
+│                     │
+│   ┌─────────────┐   │
+│   │ 🔍 Search   │   │
+│   │ 🚗 Listings │   │
+│   │ ⚖️ Compare  │   │
+│   └─────────────┘   │
+│                     │
+│   Consumer Product  │
+└─────────────────────┘
+```
+
+![Market](https://img.shields.io/badge/Type-Marketplace-6366f1?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Shipped-22c55e?style=for-the-badge)
+
+</td>
+</tr>
+</table>
+</details>
+
+---
+
+<!-- TECHNICAL SKILLS DASHBOARD -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
+## 🛠️ Technical Skills Dashboard
 
 <div align="center">
 
+<!-- SKILL ICONS ROW 1: LANGUAGES -->
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=java,js,py,cpp,html,css&theme=dark&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,html,css,php,c&theme=dark)](https://skillicons.dev)
 
-**Tools & Environment**
+**Frontend**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,linux&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,bootstrap,figma&theme=dark)](https://skillicons.dev)
+
+**Backend & DB**
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase&theme=dark)](https://skillicons.dev)
+
+**Tools & Platforms**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,vscode,postman&theme=dark)](https://skillicons.dev)
 
 </div>
 
 <br/>
 
-**Proficiency breakdown:**
+<!-- SKILL PROGRESS BARS via SVG -->
+<div align="center">
 
-| Domain | Technologies | Level |
-|:---|:---|:---|
-| Frontend Engineering | HTML5 · CSS3 · Vanilla JS ES6+ | ████████████ Confident |
-| Systems & Backend | Java · C++ · OOP patterns | █████████░░░ Developing |
-| AI & Data | Python · ML fundamentals | ███████░░░░░ Learning |
-| Design & Tooling | Figma · Adobe Express · Git | ████████████ Confident |
+| Skill | Proficiency |
+|-------|-------------|
+| Java | `████████████████████` 90% |
+| JavaScript / HTML / CSS | `████████████████████` 88% |
+| Python | `███████████████░░░░░` 75% |
+| React | `████████████░░░░░░░░` 65% |
+| Node.js / Express | `███████████░░░░░░░░░` 60% |
+| MySQL / MongoDB | `████████████░░░░░░░░` 65% |
+| Machine Learning | `████████░░░░░░░░░░░░` 45% |
+| System Design | `█████████░░░░░░░░░░░` 50% |
 
-<br/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7303c0,100:ec38bc&height=2" width="100%"/>
+---
 
-<br/>
+<!-- CERTIFICATIONS & ACHIEVEMENTS -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--                     ACHIEVEMENTS                           -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
+## 🏆 Certifications & Achievements
 
-## ◈ Achievements
-
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-**🏛️ Be Ready — Presidential Youth Initiative**
+<img src="https://img.shields.io/badge/🇪🇬_Presidential-Be_Ready_Initiative-gold?style=for-the-badge&labelColor=78350f"/>
 
-Nationally selected for Egypt's competitive youth development program, run under the Office of the President. Focus areas: digital transformation, applied AI, and future-of-work readiness. One of a limited cohort selected from across Egyptian universities.
+**National Selectee**
+Be Ready Youth Initiative
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-**📋 Technical Certifications**
+<img src="https://img.shields.io/badge/IBM-Certified-054ada?style=for-the-badge&logo=ibm&logoColor=white"/>
 
-| Credential | Issuer | Year |
-|:---|:---|:---:|
-| AI Fundamentals | ALX | 2024 |
-| Delivering Quality Work with Agility | IBM / Coursera | 2024 |
-| Java Development | Udemy | 2024 |
-| Digital Marketing | Google | 2023 |
+**IBM Certifications**
+Technical Credentials
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/Google-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+**Google Certifications**
+Technical Credentials
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/ALX-AI_Fundamentals-22c55e?style=for-the-badge"/>
+
+**ALX Africa**
+AI Fundamentals
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+<img src="https://img.shields.io/badge/Java-Development_Training-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+**Java Development Program**
+Structured industry training
+
+</td>
+<td align="center" colspan="2">
+
+<img src="https://img.shields.io/badge/Cairo_University-CS_Technical_Programs-7c3aed?style=for-the-badge"/>
+
+**University Technical Programs**
+Multiple courses & workshops
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7303c0,100:ec38bc&height=2" width="100%"/>
+<!-- GITHUB TROPHIES -->
+<div align="center">
 
-<br/>
+## 🎖️ GitHub Trophies
 
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--                   GITHUB ANALYTICS                         -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
+<img src="https://github-profile-trophy.vercel.app/?username=ReemAhmed&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4" alt="trophies"/>
 
-## ◈ GitHub Analytics
+</div>
+
+---
+
+<!-- LEARNING ROADMAP -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
+## 🗺️ Learning Roadmap 2025
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Reem-Ahmed711&show_icons=true&hide_border=true&bg_color=03001e&title_color=c084fc&icon_color=ec4899&text_color=e2e8f0&count_private=true&include_all_commits=true" height="170px"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reem-Ahmed711&layout=compact&hide_border=true&bg_color=03001e&title_color=c084fc&text_color=e2e8f0&langs_count=7" height="170px"/>
+```
+CURRENT SPRINT                    Q3 2025                      Q4 2025
+─────────────────────────────────────────────────────────────────────
+ ✅ JavaScript Fundamentals        ⬜ Advanced React             ⬜ TypeScript
+ ✅ REST API Design                ⬜ Redux / Zustand            ⬜ Docker Basics
+ ✅ Java OOP                       ⬜ PostgreSQL Deep Dive       ⬜ CI/CD Pipelines
+ 🔄 React Foundations              ⬜ Node.js Advanced           ⬜ Cloud (AWS/GCP)
+ 🔄 Node.js / Express              ⬜ System Design: Scale       ⬜ ML Deployment
+ 🔄 DSA (Leetcode grind)           ⬜ Data Structures: Graphs    ⬜ Distributed Systems
+ 🔄 Python for ML (sklearn)        ⬜ Security: Pentesting Lab   ⬜ Open Source PRs
+─────────────────────────────────────────────────────────────────────
+ Legend:  ✅ Done   🔄 Active   ⬜ Upcoming
+```
 
+</div>
+
+---
+
+<!-- GITHUB ANALYTICS CENTER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
+## 📊 GitHub Analytics Center
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ReemAhmed&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d0d0d&border_color=7c3aed&title_color=a855f7&icon_color=ec4899"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReemAhmed&layout=compact&langs_count=8&theme=radical&bg_color=0d0d0d&border_color=7c3aed&title_color=a855f7"/>
+
+</div>
+
+<div align="center">
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Reem-Ahmed711&hide_border=true&background=03001e&stroke=7303c0&ring=c084fc&fire=ec4899&currStreakLabel=c084fc&sideNums=e2e8f0&sideLabels=c084fc&dates=94a3b8&currStreakNum=ec4899" width="560px"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Reem-Ahmed711&theme=tokyo-night&hide_border=true&bg_color=03001e&color=c084fc&line=7303c0&point=ec4899&area=true" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ReemAhmed&theme=radical&background=0d0d0d&border=7c3aed&ring=a855f7&fire=ec4899&currStreakLabel=a855f7" alt="streak stats"/>
 
 </div>
 
 <br/>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ReemAhmed&theme=react-dark&bg_color=0d0d0d&color=a855f7&line=7c3aed&point=ec4899&area=true&hide_border=false&border_color=7c3aed" width="95%" alt="activity graph"/>
+
+</div>
+
+---
 
 <!-- PROFILE SUMMARY CARDS -->
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reem-Ahmed711&theme=midnight_purple" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Reem-Ahmed711&theme=midnight_purple" height="160px"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Reem-Ahmed711&theme=midnight_purple" height="160px"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Reem-Ahmed711&theme=midnight_purple&utcOffset=3" height="160px"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7303c0,100:ec38bc&height=2" width="100%"/>
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--                  CONTRIBUTION SNAKE                        -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
-
-## ◈ Contribution Map
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Reem-Ahmed711/Reem-Ahmed711/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Reem-Ahmed711/Reem-Ahmed711/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Reem-Ahmed711/Reem-Ahmed711/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-> *To enable the snake: add a GitHub Action workflow to your profile repo that runs `Platane/snk` on a schedule and commits the SVG to an `output` branch.*
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7303c0,100:ec38bc&height=2" width="100%"/>
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--                   CURRENT FOCUS                            -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
-
-## ◈ Currently
-
-```javascript
-const reem = {
-  building:    ["TechX Egypt v2 — adding backend API layer"],
-  learning:    ["React", "Python for ML pipelines", "REST API design"],
-  exploring:   ["Open source contribution workflows", "System design fundamentals"],
-  goal_2025:   "Land a software engineering or AI internship",
-  reading:     "Clean Code — Robert C. Martin",
-};
-```
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7303c0,100:ec38bc&height=2" width="100%"/>
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--                   CONNECT WITH ME                          -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
-
-## ◈ Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/reem-ahmed711">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:reemahmed711@gmail.com">
-  <img src="https://img.shields.io/badge/Email-reemahmed711%40gmail.com-c026d3?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/Reem-Ahmed711">
-  <img src="https://img.shields.io/badge/GitHub-Reem--Ahmed711-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ReemAhmed&theme=radical" width="95%"/>
 
 <br/><br/>
 
-*Open to internship opportunities in Software Engineering, Full-Stack Development, or Applied AI.*  
-*Cairo-based · Remote-ready · Available immediately.*
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ReemAhmed&theme=radical" width="47%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ReemAhmed&theme=radical" width="47%"/>
 
 </div>
 
+---
+
+<!-- SNAKE CONTRIBUTION ANIMATION -->
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReemAhmed/ReemAhmed/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReemAhmed/ReemAhmed/output/github-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ReemAhmed/ReemAhmed/output/github-snake-dark.svg">
+</picture>
+
+</div>
+
+---
+
+<!-- CURRENT FOCUS -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
+## 🎯 Current Focus
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**🔨 Building**
+```
+REST APIs at scale
+React component systems
+E-commerce backends
+```
+
+</td>
+<td width="33%" align="center">
+
+**📚 Studying**
+```
+System Design patterns
+DSA for interviews
+ML fundamentals
+```
+
+</td>
+<td width="33%" align="center">
+
+**🎯 Goals**
+```
+Land a top internship
+Ship 2 open-source libs
+Contribute to OSS
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- OPEN SOURCE SECTION -->
+## 🌐 Open Source Philosophy
+
+> *"Every pull request is a conversation. Every repo is a statement."*
+
+I believe in building in public, sharing knowledge, and contributing back to the tools that built me. Open to collaboration on:
+
+- 🛒 E-commerce / marketplace tooling
+- 🤖 Applied AI / ML utilities
+- 🎓 Student-focused developer tools
+- 🔐 Security & ethical hacking resources
+
+---
+
+<!-- FUN FACTS -->
+## ⚡ Fun Facts
+
+```javascript
+const reem = {
+  currentlyDebugging : "always",
+  favoriteDataStructure : "hash map (for everything)",
+  coffeePerCommit : 2.4,
+  tabs_vs_spaces : "tabs. final answer.",
+  dreamJob : "Staff Engineer @ a company that ships",
+  superpower : "shipping MVPs before people finish planning",
+  secretWeapon : "can read stack traces like poetry",
+  lifePhilosophy : "deploy first, apologize later (kidding... mostly)"
+};
+```
+
+---
+
+<!-- CONTACT & NETWORKING -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
+## 📡 Contact & Networking
+
+<div align="center">
+
 <br/>
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fdeff9,30:ec38bc,60:7303c0,100:03001e&height=130&section=footer&text=Cairo%2C%20Egypt%20%F0%9F%87%AA%F0%9F%87%AC&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reemahmed)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reem@email.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReemAhmed)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://reemahmed.dev)
+
+<br/>
+
+> 💼 Open to **internships**, **part-time engineering roles**, **freelance projects**, and **technical collaborations**.
+
+<br/>
+
+```
+📍 Cairo, Egypt  ·  🌍 Remote-friendly  ·  ✈️ Relocation-open
+```
+
+</div>
+
+---
+
+<!-- PREMIUM FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let%27s%20build%20something%20remarkable&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+
+<div align="center">
+
+<br/>
+
+*Last updated: auto-synced with GitHub Actions*
+
+<img src="https://img.shields.io/badge/README-Built_with_precision-7c3aed?style=flat-square&logo=markdown&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/PRs-Welcome-a855f7?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open_to-Collaborate-ec4899?style=flat-square"/>
+
+</div>
