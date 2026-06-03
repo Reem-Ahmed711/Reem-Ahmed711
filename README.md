@@ -329,9 +329,9 @@ Nationally selected for Egypt's competitive youth development program, run under
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Reem-Ahmed711/Reem-Ahmed711/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Reem-Ahmed711/Reem-Ahmed711/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Reem-Ahmed711/Reem-Ahmed711/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
 > *To enable the snake: add a GitHub Action workflow to your profile repo that runs `Platane/snk` on a schedule and commits the SVG to an `output` branch.*
