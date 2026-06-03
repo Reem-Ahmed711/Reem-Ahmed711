@@ -333,7 +333,6 @@ Nationally selected for Egypt's competitive youth development program, run under
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
 </picture>
-
 > *To enable the snake: add a GitHub Action workflow to your profile repo that runs `Platane/snk` on a schedule and commits the SVG to an `output` branch.*
 
 </div>
