@@ -2,7 +2,7 @@
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░  HERO BANNER  ░░░░░░░░░░░░░░░░░░░░░░ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001e,30:7303c0,60:ec38bc,100:fdeff9&height=220&section=header&text=Reem%20Ahmed&fontSize=64&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI%20Practitioner&descSize=16&descAlignY=60&descColor=e2b4ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001e,30:7303c0,60:ec38bc,100:fdeff9&height=220&section=header&text=Reem%20Ahmed&fontSize=64&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI%20Practitioner&descSize=14&descAlignY=60&descColor=e2b4ff" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://readme-typing-svg.demolab.com">
@@ -395,4 +395,4 @@ const reem = {
 <br/>
 
 <!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fdeff9,30:ec38bc,60:7303c0,100:03001e&height=130&section=footer&text=Cairo%2C%20Egypt%20%F0%9F%87%AA%F0%9F%87%AC&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001e,30:7303c0,60:ec38bc,100:fdeff9&height=130&section=footer" width="100%"/>
