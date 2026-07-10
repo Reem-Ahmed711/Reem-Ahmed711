@@ -328,18 +328,11 @@ Nationally selected for Egypt's competitive youth development program, run under
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Reem-Ahmed711/Reem-Ahmed711/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Reem-Ahmed711/Reem-Ahmed711/dist/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Reem-Ahmed711/Reem-Ahmed711/dist/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Reem-Ahmed711/Reem-Ahmed711/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Reem-Ahmed711/Reem-Ahmed711/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Reem-Ahmed711/Reem-Ahmed711/output/github-contribution-grid-snake.svg">
 </picture>
-
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7303c0,100:ec38bc&height=2" width="100%"/>
-
-<br/>
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
 <!--                   CURRENT FOCUS                            -->
